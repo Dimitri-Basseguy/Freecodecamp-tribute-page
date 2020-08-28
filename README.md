@@ -3,7 +3,7 @@
 
 ## About The Project
 
-![screen-shot-yennefer-react](https://github.com/Dimitri-Basseguy/Freecodecamp-tribute-page/blob/master/screenshot.jpeg =250x)
+![screen-shot-yennefer-react|50%](https://github.com/Dimitri-Basseguy/Freecodecamp-tribute-page/blob/master/screenshot.jpeg)
 
 Mon test FreecodeCamp Responsive Web Design Certification / Build a tribute page.
 
