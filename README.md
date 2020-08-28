@@ -3,7 +3,8 @@
 
 ## About The Project
 
-![screen-shot-yennefer-react](https://github.com/Dimitri-Basseguy/Yennefer-react-training/blob/master/screen-shot.png)
+![screen-shot-yennefer-react](https://github.com/Dimitri-Basseguy/Freecodecamp-tribute-page/blob/master/screenshot.jpeg)
+
 Mon test FreecodeCamp Responsive Web Design Certification / Build a tribute page.
 
 ## Instructions
