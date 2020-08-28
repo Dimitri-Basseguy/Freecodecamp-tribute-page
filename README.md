@@ -1,8 +1,10 @@
 ## About The Project 
 # Freecodecamp-tribute-page
 
-Mon test FreecodeCamp Responsive Web Design Certification / Build a tribute page.
+## About The Project
 
+![screen-shot-yennefer-react](https://github.com/Dimitri-Basseguy/Yennefer-react-training/blob/master/screen-shot.png)
+Mon test FreecodeCamp Responsive Web Design Certification / Build a tribute page.
 
 ## Instructions
 
